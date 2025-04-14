@@ -1,0 +1,848 @@
+[
+    {
+        "colorName": "AliceBlue",
+        "hex": "#F0F8FF",
+        "rgb": "240, 248, 255",
+        "cmyk": "0.06, 0, 0, 0"
+    },
+    {
+        "colorName": "AntiqueWhite",
+        "hex": "#FAEBD7",
+        "rgb": "250, 235, 215",
+        "cmyk": "0, 0.06, 0.14, 0.02"
+    },
+    {
+        "colorName": "Aqua",
+        "hex": "#00FFFF",
+        "rgb": "0, 255, 255",
+        "cmyk": "1, 0, 0.5, 0"
+    },
+    {
+        "colorName": "Aquamarine",
+        "hex": "#7FFFD4",
+        "rgb": "127, 255, 212",
+        "cmyk": "0.5, 0, 0.17, 0"
+    },
+    {
+        "colorName": "Azure",
+        "hex": "#F0FFFF",
+        "rgb": "240, 255, 255",
+        "cmyk": "0.06, 0, 0, 0"
+    },
+    {
+        "colorName": "Beige",
+        "hex": "#F5F5DC",
+        "rgb": "245, 245, 220",
+        "cmyk": "0, 0, 0.1, 0.04"
+    },
+    {
+        "colorName": "Bisque",
+        "hex": "#FFE4C4",
+        "rgb": "255, 228, 196",
+        "cmyk": "0, 0.11, 0.23, 0"
+    },
+    {
+        "colorName": "Black",
+        "hex": "#000000",
+        "rgb": "0, 0, 0",
+        "cmyk": "0, 0, 0, 1"
+    },
+    {
+        "colorName": "BlanchedAlmond",
+        "hex": "#FFEBCD",
+        "rgb": "255, 235, 205",
+        "cmyk": "0, 0.08, 0.2, 0"
+    },
+    {
+        "colorName": "Blue",
+        "hex": "#0000FF",
+        "rgb": "0, 0, 255",
+        "cmyk": "1, 1, 0, 0"
+    },
+    {
+        "colorName": "BlueViolet",
+        "hex": "#8A2BE2",
+        "rgb": "138, 43, 226",
+        "cmyk": "0.39, 0.81, 0, 0.11"
+    },
+    {
+        "colorName": "Brown",
+        "hex": "#A52A2A",
+        "rgb": "165, 42, 42",
+        "cmyk": "0, 0.74, 0.74, 0.35"
+    },
+    {
+        "colorName": "BurlyWood",
+        "hex": "#DEB887",
+        "rgb": "222, 184, 135",
+        "cmyk": "0, 0.17, 0.39, 0.13"
+    },
+    {
+        "colorName": "CadetBlue",
+        "hex": "#5F9EA0",
+        "rgb": "95, 158, 160",
+        "cmyk": "0.41, 0.01, 0, 0.37"
+    },
+    {
+        "colorName": "Chartreuse",
+        "hex": "#7FFF00",
+        "rgb": "127, 255, 0",
+        "cmyk": "0.5, 0, 1, 0"
+    },
+    {
+        "colorName": "Chocolate",
+        "hex": "#D2691E",
+        "rgb": "210, 105, 30",
+        "cmyk": "0, 0.5, 0.85, 0.18"
+    },
+    {
+        "colorName": "Coral",
+        "hex": "#FF7F50",
+        "rgb": "255, 127, 80",
+        "cmyk": "0, 0.5, 0.69, 0"
+    },
+    {
+        "colorName": "CornflowerBlue",
+        "hex": "#6495ED",
+        "rgb": "100, 149, 237",
+        "cmyk": "0.58, 0.37, 0, 0.07"
+    },
+    {
+        "colorName": "Cornsilk",
+        "hex": "#FFF8DC",
+        "rgb": "255, 248, 220",
+        "cmyk": "0, 0.03, 0.14, 0"
+    },
+    {
+        "colorName": "Crimson",
+        "hex": "#DC143C",
+        "rgb": "220, 20, 60",
+        "cmyk": "0, 0.91, 0.73, 0.14"
+    },
+    {
+        "colorName": "Cyan",
+        "hex": "#00FFFF",
+        "rgb": "0, 255, 255",
+        "cmyk": "1, 0, 0.5, 0"
+    },
+    {
+        "colorName": "DarkBlue",
+        "hex": "#00008B",
+        "rgb": "0, 0, 139",
+        "cmyk": "1, 1, 0, 0.45"
+    },
+    {
+        "colorName": "DarkCyan",
+        "hex": "#008B8B",
+        "rgb": "0, 139, 139",
+        "cmyk": "1, 0, 0, 0.45"
+    },
+    {
+        "colorName": "DarkGoldenRod",
+        "hex": "#B8860B",
+        "rgb": "184, 134, 11",
+        "cmyk": "0, 0.27, 0.94, 0.28"
+    },
+    {
+        "colorName": "DarkGray",
+        "hex": "#A9A9A9",
+        "rgb": "169, 169, 169",
+        "cmyk": "0, 0, 0, 0.34"
+    },
+    {
+        "colorName": "DarkGreen",
+        "hex": "#006400",
+        "rgb": "0, 100, 0",
+        "cmyk": "1, 0, 1, 0.62"
+    },
+    {
+        "colorName": "DarkKhaki",
+        "hex": "#BDB76B",
+        "rgb": "189, 183, 107",
+        "cmyk": "0, 0.03, 0.43, 0.26"
+    },
+    {
+        "colorName": "DarkMagenta",
+        "hex": "#8B008B",
+        "rgb": "139, 0, 139",
+        "cmyk": "0, 1, 0, 0.45"
+    },
+    {
+        "colorName": "DarkOliveGreen",
+        "hex": "#556B2F",
+        "rgb": "85, 107, 47",
+        "cmyk": "0.21, 0, 0.56, 0.58"
+    },
+    {
+        "colorName": "DarkOrange",
+        "hex": "#FF8C00",
+        "rgb": "255, 140, 0",
+        "cmyk": "0, 0.45, 1, 0"
+    },
+    {
+        "colorName": "DarkOrchid",
+        "hex": "#9932CC",
+        "rgb": "153, 50, 204",
+        "cmyk": "0.25, 0.75, 0, 0.2"
+    },
+    {
+        "colorName": "DarkRed",
+        "hex": "#8B0000",
+        "rgb": "139, 0, 0",
+        "cmyk": "0, 1, 1, 0.45"
+    },
+    {
+        "colorName": "DarkSalmon",
+        "hex": "#E9967A",
+        "rgb": "233, 150, 122",
+        "cmyk": "0, 0.36, 0.48, 0.09"
+    },
+    {
+        "colorName": "DarkSeaGreen",
+        "hex": "#8FBC8F",
+        "rgb": "143, 188, 143",
+        "cmyk": "0.24, 0, 0.24, 0.26"
+    },
+    {
+        "colorName": "DarkSlateBlue",
+        "hex": "#483D8B",
+        "rgb": "72, 61, 139",
+        "cmyk": "0.48, 0.56, 0, 0.45"
+    },
+    {
+        "colorName": "DarkSlateGray",
+        "hex": "#2F4F4F",
+        "rgb": "47, 79, 79",
+        "cmyk": "0.41, 0, 0, 0.69"
+    },
+    {
+        "colorName": "DarkTurquoise",
+        "hex": "#00CED1",
+        "rgb": "0, 206, 209",
+        "cmyk": "1, 0.01, 0, 0.18"
+    },
+    {
+        "colorName": "DarkViolet",
+        "hex": "#9400D3",
+        "rgb": "148, 0, 211",
+        "cmyk": "0.3, 1, 0, 0.17"
+    },
+    {
+        "colorName": "DeepPink",
+        "hex": "#FF1493",
+        "rgb": "255, 20, 147",
+        "cmyk": "0, 0.92, 0.42, 0"
+    },
+    {
+        "colorName": "DeepSkyBlue",
+        "hex": "#00BFFF",
+        "rgb": "0, 191, 255",
+        "cmyk": "1, 0.25, 0, 0"
+    },
+    {
+        "colorName": "DimGray",
+        "hex": "#696969",
+        "rgb": "105, 105, 105",
+        "cmyk": "0, 0, 0, 0.59"
+    },
+    {
+        "colorName": "DodgerBlue",
+        "hex": "#1E90FF",
+        "rgb": "30, 144, 255",
+        "cmyk": "0.88, 0.44, 0, 0"
+    },
+    {
+        "colorName": "FireBrick",
+        "hex": "#B22222",
+        "rgb": "178, 34, 34",
+        "cmyk": "0, 0.81, 0.81, 0.3"
+    },
+    {
+        "colorName": "FloralWhite",
+        "hex": "#FFFAF0",
+        "rgb": "255, 250, 240",
+        "cmyk": "0, 0.02, 0.06, 0"
+    },
+    {
+        "colorName": "ForestGreen",
+        "hex": "#228B22",
+        "rgb": "34, 139, 34",
+        "cmyk": "0.76, 0, 0.76, 0.45"
+    },
+    {
+        "colorName": "Fuchsia",
+        "hex": "#FF00FF",
+        "rgb": "255, 0, 255",
+        "cmyk": "0, 1, 0, 0"
+    },
+    {
+        "colorName": "Gainsboro",
+        "hex": "#DCDCDC",
+        "rgb": "220, 220, 220",
+        "cmyk": "0, 0, 0, 0.14"
+    },
+    {
+        "colorName": "GhostWhite",
+        "hex": "#F8F8FF",
+        "rgb": "248, 248, 255",
+        "cmyk": "0, 0, 0.03, 0"
+    },
+    {
+        "colorName": "Gold",
+        "hex": "#FFD700",
+        "rgb": "255, 215, 0",
+        "cmyk": "0, 0.16, 1, 0"
+    },
+    {
+        "colorName": "GoldenRod",
+        "hex": "#DAA520",
+        "rgb": "218, 165, 32",
+        "cmyk": "0, 0.24, 0.85, 0.15"
+    },
+    {
+        "colorName": "Gray",
+        "hex": "#808080",
+        "rgb": "128, 128, 128",
+        "cmyk": "0, 0, 0, 0.5"
+    },
+    {
+        "colorName": "Green",
+        "hex": "#008000",
+        "rgb": "0, 128, 0",
+        "cmyk": "1, 0, 1, 0.5"
+    },
+    {
+        "colorName": "GreenYellow",
+        "hex": "#ADFF2F",
+        "rgb": "173, 255, 47",
+        "cmyk": "0.32, 0, 0.82, 0"
+    },
+    {
+        "colorName": "HoneyDew",
+        "hex": "#F0FFF0",
+        "rgb": "240, 255, 240",
+        "cmyk": "0.06, 0, 0.06, 0"
+    },
+    {
+        "colorName": "HotPink",
+        "hex": "#FF69B4",
+        "rgb": "255, 105, 180",
+        "cmyk": "0, 0.59, 0.29, 0"
+    },
+    {
+        "colorName": "IndianRed",
+        "hex": "#CD5C5C",
+        "rgb": "205, 92, 92",
+        "cmyk": "0, 0.55, 0.55, 0.2"
+    },
+    {
+        "colorName": "Indigo",
+        "hex": "#4B0082",
+        "rgb": "75, 0, 130",
+        "cmyk": "0.42, 1, 0, 0.49"
+    },
+    {
+        "colorName": "Ivory",
+        "hex": "#FFFFF0",
+        "rgb": "255, 255, 240",
+        "cmyk": "0, 0, 0.06, 0"
+    },
+    {
+        "colorName": "Khaki",
+        "hex": "#F0E68C",
+        "rgb": "240, 230, 140",
+        "cmyk": "0, 0.04, 0.42, 0.06"
+    },
+    {
+        "colorName": "Lavender",
+        "hex": "#E6E6FA",
+        "rgb": "230, 230, 250",
+        "cmyk": "0.08, 0.08, 0, 0.02"
+    },
+    {
+        "colorName": "LavenderBlush",
+        "hex": "#FFF0F5",
+        "rgb": "255, 240, 245",
+        "cmyk": "0, 0.06, 0.04, 0"
+    },
+    {
+        "colorName": "LawnGreen",
+        "hex": "#7CFC00",
+        "rgb": "124, 252, 0",
+        "cmyk": "0.51, 0, 1, 0.01"
+    },
+    {
+        "colorName": "LemonChiffon",
+        "hex": "#FFFACD",
+        "rgb": "255, 250, 205",
+        "cmyk": "0, 0.02, 0.2, 0"
+    },
+    {
+        "colorName": "LightBlue",
+        "hex": "#ADD8E6",
+        "rgb": "173, 216, 230",
+        "cmyk": "0.25, 0.06, 0, 0.1"
+    },
+    {
+        "colorName": "LightCoral",
+        "hex": "#F08080",
+        "rgb": "240, 128, 128",
+        "cmyk": "0, 0.46, 0.46, 0.06"
+    },
+    {
+        "colorName": "LightCyan",
+        "hex": "#E0FFFF",
+        "rgb": "224, 255, 255",
+        "cmyk": "0.12, 0, 0, 0"
+    },
+    {
+        "colorName": "LightGoldenRodYellow",
+        "hex": "#FAFAD2",
+        "rgb": "250, 250, 210",
+        "cmyk": "0, 0, 0.16, 0.02"
+    },
+    {
+        "colorName": "LightGray",
+        "hex": "#D3D3D3",
+        "rgb": "211, 211, 211",
+        "cmyk": "0, 0, 0, 0.18"
+    },
+    {
+        "colorName": "LightGreen",
+        "hex": "#90EE90",
+        "rgb": "144, 238, 144",
+        "cmyk": "0.39, 0, 0.39, 0.07"
+    },
+    {
+        "colorName": "LightPink",
+        "hex": "#FFB6C1",
+        "rgb": "255, 182, 193",
+        "cmyk": "0, 0.29, 0.24, 0"
+    },
+    {
+        "colorName": "LightSalmon",
+        "hex": "#FFA07A",
+        "rgb": "255, 160, 122",
+        "cmyk": "0, 0.37, 0.52, 0"
+    },
+    {
+        "colorName": "LightSeaGreen",
+        "hex": "#20B2AA",
+        "rgb": "32, 178, 170",
+        "cmyk": "0.82, 0, 0.05, 0.3"
+    },
+    {
+        "colorName": "LightSkyBlue",
+        "hex": "#87CEFA",
+        "rgb": "135, 206, 250",
+        "cmyk": "0.46, 0.18, 0, 0.02"
+    },
+    {
+        "colorName": "LightSlateGray",
+        "hex": "#778899",
+        "rgb": "119, 136, 153",
+        "cmyk": "0.22, 0.11, 0, 0.4"
+    },
+    {
+        "colorName": "LightSteelBlue",
+        "hex": "#B0C4DE",
+        "rgb": "176, 196, 222",
+        "cmyk": "0.21, 0.12, 0, 0.13"
+    },
+    {
+        "colorName": "LightYellow",
+        "hex": "#FFFFE0",
+        "rgb": "255, 255, 224",
+        "cmyk": "0, 0, 0.12, 0"
+    },
+    {
+        "colorName": "Lime",
+        "hex": "#00FF00",
+        "rgb": "0, 255, 0",
+        "cmyk": "1, 0, 1, 0"
+    },
+    {
+        "colorName": "LimeGreen",
+        "hex": "#32CD32",
+        "rgb": "50, 205, 50",
+        "cmyk": "0.76, 0, 0.76, 0.2"
+    },
+    {
+        "colorName": "Linen",
+        "hex": "#FAF0E6",
+        "rgb": "250, 240, 230",
+        "cmyk": "0, 0.04, 0.08, 0.02"
+    },
+    {
+        "colorName": "Magenta",
+        "hex": "#FF00FF",
+        "rgb": "255, 0, 255",
+        "cmyk": "0, 1, 0, 0"
+    },
+    {
+        "colorName": "Maroon",
+        "hex": "#800000",
+        "rgb": "128, 0, 0",
+        "cmyk": "0, 1, 1, 0.5"
+    },
+    {
+        "colorName": "MediumAquaMarine",
+        "hex": "#66CDAA",
+        "rgb": "102, 205, 170",
+        "cmyk": "0.5, 0, 0.17, 0.2"
+    },
+    {
+        "colorName": "MediumBlue",
+        "hex": "#0000CD",
+        "rgb": "0, 0, 205",
+        "cmyk": "1, 1, 0, 0.2"
+    },
+    {
+        "colorName": "MediumOrchid",
+        "hex": "#BA55D3",
+        "rgb": "186, 85, 211",
+        "cmyk": "0.12, 0.6, 0, 0.17"
+    },
+    {
+        "colorName": "MediumPurple",
+        "hex": "#9370DB",
+        "rgb": "147, 112, 219",
+        "cmyk": "0.33, 0.49, 0, 0.14"
+    },
+    {
+        "colorName": "MediumSeaGreen",
+        "hex": "#3CB371",
+        "rgb": "60, 179, 113",
+        "cmyk": "0.66, 0, 0.37, 0.3"
+    },
+    {
+        "colorName": "MediumSlateBlue",
+        "hex": "#7B68EE",
+        "rgb": "123, 104, 238",
+        "cmyk": "0.48, 0.56, 0, 0.07"
+    },
+    {
+        "colorName": "MediumSpringGreen",
+        "hex": "#00FA9A",
+        "rgb": "0, 250, 154",
+        "cmyk": "1, 0, 0.38, 0.02"
+    },
+    {
+        "colorName": "MediumTurquoise",
+        "hex": "#48D1CC",
+        "rgb": "72, 209, 204",
+        "cmyk": "0.66, 0, 0.02, 0.18"
+    },
+    {
+        "colorName": "MediumVioletRed",
+        "hex": "#C71585",
+        "rgb": "199, 21, 133",
+        "cmyk": "0, 0.89, 0.33, 0.22"
+    },
+    {
+        "colorName": "MidnightBlue",
+        "hex": "#191970",
+        "rgb": "25, 25, 112",
+        "cmyk": "0.78, 0.78, 0, 0.56"
+    },
+    {
+        "colorName": "MintCream",
+        "hex": "#F5FFFA",
+        "rgb": "245, 255, 250",
+        "cmyk": "0.04, 0, 0.02, 0"
+    },
+    {
+        "colorName": "MistyRose",
+        "hex": "#FFE4E1",
+        "rgb": "255, 228, 225",
+        "cmyk": "0, 0.11, 0.12, 0"
+    },
+    {
+        "colorName": "Moccasin",
+        "hex": "#FFE4B5",
+        "rgb": "255, 228, 181",
+        "cmyk": "0, 0.11, 0.29, 0"
+    },
+    {
+        "colorName": "NavajoWhite",
+        "hex": "#FFDEAD",
+        "rgb": "255, 222, 173",
+        "cmyk": "0, 0.13, 0.32, 0"
+    },
+    {
+        "colorName": "Navy",
+        "hex": "#000080",
+        "rgb": "0, 0, 128",
+        "cmyk": "1, 1, 0, 0.5"
+    },
+    {
+        "colorName": "OldLace",
+        "hex": "#FDF5E6",
+        "rgb": "253, 245, 230",
+        "cmyk": "0, 0.03, 0.09, 0.01"
+    },
+    {
+        "colorName": "Olive",
+        "hex": "#808000",
+        "rgb": "128, 128, 0",
+        "cmyk": "0, 0, 1, 0.5"
+    },
+    {
+        "colorName": "OliveDrab",
+        "hex": "#6B8E23",
+        "rgb": "107, 142, 35",
+        "cmyk": "0.25, 0, 0.75, 0.44"
+    },
+    {
+        "colorName": "Orange",
+        "hex": "#FFA500",
+        "rgb": "255, 165, 0",
+        "cmyk": "0, 0.35, 1, 0"
+    },
+    {
+        "colorName": "OrangeRed",
+        "hex": "#FF4500",
+        "rgb": "255, 69, 0",
+        "cmyk": "0, 0.73, 1, 0"
+    },
+    {
+        "colorName": "Orchid",
+        "hex": "#DA70D6",
+        "rgb": "218, 112, 214",
+        "cmyk": "0, 0.49, 0, 0.15"
+    },
+    {
+        "colorName": "PaleGoldenRod",
+        "hex": "#EEE8AA",
+        "rgb": "238, 232, 170",
+        "cmyk": "0, 0.03, 0.29, 0.07"
+    },
+    {
+        "colorName": "PaleGreen",
+        "hex": "#98FB98",
+        "rgb": "152, 251, 152",
+        "cmyk": "0.39, 0, 0.39, 0.02"
+    },
+    {
+        "colorName": "PaleTurquoise",
+        "hex": "#AFEEEE",
+        "rgb": "175, 238, 238",
+        "cmyk": "0.26, 0, 0, 0.07"
+    },
+    {
+        "colorName": "PaleVioletRed",
+        "hex": "#DB7093",
+        "rgb": "219, 112, 147",
+        "cmyk": "0, 0.49, 0.33, 0.14"
+    },
+    {
+        "colorName": "PapayaWhip",
+        "hex": "#FFEFD5",
+        "rgb": "255, 239, 213",
+        "cmyk": "0, 0.06, 0.16, 0"
+    },
+    {
+        "colorName": "PeachPuff",
+        "hex": "#FFDAB9",
+        "rgb": "255, 218, 185",
+        "cmyk": "0, 0.14, 0.27, 0"
+    },
+    {
+        "colorName": "Peru",
+        "hex": "#CD853F",
+        "rgb": "205, 133, 63",
+        "cmyk": "0, 0.35, 0.69, 0.2"
+    },
+    {
+        "colorName": "Pink",
+        "hex": "#FFC0CB",
+        "rgb": "255, 192, 203",
+        "cmyk": "0, 0.25, 0.2, 0"
+    },
+    {
+        "colorName": "Plum",
+        "hex": "#DDA0DD",
+        "rgb": "221, 160, 221",
+        "cmyk": "0, 0.28, 0, 0.13"
+    },
+    {
+        "colorName": "PowderBlue",
+        "hex": "#B0E0E6",
+        "rgb": "176, 224, 230",
+        "cmyk": "0.24, 0.03, 0, 0.1"
+    },
+    {
+        "colorName": "Purple",
+        "hex": "#800080",
+        "rgb": "128, 0, 128",
+        "cmyk": "0, 1, 0, 0.5"
+    },
+    {
+        "colorName": "RebeccaPurple",
+        "hex": "#663399",
+        "rgb": "102, 51, 153",
+        "cmyk": "0.34, 0.67, 0, 0.4"
+    },
+    {
+        "colorName": "Red",
+        "hex": "#FF0000",
+        "rgb": "255, 0, 0",
+        "cmyk": "0, 1, 1, 0"
+    },
+    {
+        "colorName": "RosyBrown",
+        "hex": "#BC8F8F",
+        "rgb": "188, 143, 143",
+        "cmyk": "0, 0.24, 0.24, 0.26"
+    },
+    {
+        "colorName": "RoyalBlue",
+        "hex": "#4169E1",
+        "rgb": "65, 105, 225",
+        "cmyk": "0.71, 0.53, 0, 0.12"
+    },
+    {
+        "colorName": "SaddleBrown",
+        "hex": "#8B4513",
+        "rgb": "139, 69, 19",
+        "cmyk": "0, 0.5, 0.86, 0.46"
+    },
+    {
+        "colorName": "Salmon",
+        "hex": "#FA8072",
+        "rgb": "250, 128, 114",
+        "cmyk": "0, 0.49, 0.54, 0.02"
+    },
+    {
+        "colorName": "SandyBrown",
+        "hex": "#F4A460",
+        "rgb": "244, 164, 96",
+        "cmyk": "0, 0.33, 0.61, 0.04"
+    },
+    {
+        "colorName": "SeaGreen",
+        "hex": "#2E8B57",
+        "rgb": "46, 139, 87",
+        "cmyk": "0.67, 0, 0.37, 0.45"
+    },
+    {
+        "colorName": "SeaShell",
+        "hex": "#FFF5EE",
+        "rgb": "255, 245, 238",
+        "cmyk": "0, 0.04, 0.07, 0"
+    },
+    {
+        "colorName": "Sienna",
+        "hex": "#A0522D",
+        "rgb": "160, 82, 45",
+        "cmyk": "0, 0.49, 0.72, 0.37"
+    },
+    {
+        "colorName": "Silver",
+        "hex": "#C0C0C0",
+        "rgb": "192, 192, 192",
+        "cmyk": "0, 0, 0, 0.25"
+    },
+    {
+        "colorName": "SkyBlue",
+        "hex": "#87CEEB",
+        "rgb": "135, 206, 235",
+        "cmyk": "0.43, 0.12, 0, 0.08"
+    },
+    {
+        "colorName": "SlateBlue",
+        "hex": "#6A5ACD",
+        "rgb": "106, 90, 205",
+        "cmyk": "0.48, 0.56, 0, 0.2"
+    },
+    {
+        "colorName": "SlateGray",
+        "hex": "#708090",
+        "rgb": "112, 128, 144",
+        "cmyk": "0.22, 0.11, 0, 0.44"
+    },
+    {
+        "colorName": "Snow",
+        "hex": "#FFFAFA",
+        "rgb": "255, 250, 250",
+        "cmyk": "0, 0.02, 0.02, 0"
+    },
+    {
+        "colorName": "SpringGreen",
+        "hex": "#00FF7F",
+        "rgb": "0, 255, 127",
+        "cmyk": "1, 0, 0.5, 0"
+    },
+    {
+        "colorName": "SteelBlue",
+        "hex": "#4682B4",
+        "rgb": "70, 130, 180",
+        "cmyk": "0.61, 0.28, 0, 0.29"
+    },
+    {
+        "colorName": "Tan",
+        "hex": "#D2B48C",
+        "rgb": "210, 180, 140",
+        "cmyk": "0, 0.14, 0.33, 0.18"
+    },
+    {
+        "colorName": "Teal",
+        "hex": "#008080",
+        "rgb": "0, 128, 128",
+        "cmyk": "1, 0, 0, 0.5"
+    },
+    {
+        "colorName": "Thistle",
+        "hex": "#D8BFD8",
+        "rgb": "216, 191, 216",
+        "cmyk": "0, 0.12, 0, 0.15"
+    },
+    {
+        "colorName": "Tomato",
+        "hex": "#FF6347",
+        "rgb": "255, 99, 71",
+        "cmyk": "0, 0.61, 0.72, 0"
+    },
+    {
+        "colorName": "Turquoise",
+        "hex": "#40E0D0",
+        "rgb": "64, 224, 208",
+        "cmyk": "0.71, 0, 0.07, 0.12"
+    },
+    {
+        "colorName": "Violet",
+        "hex": "#EE82EE",
+        "rgb": "238, 130, 238",
+        "cmyk": "0, 0.45, 0, 0.07"
+    },
+    {
+        "colorName": "Wheat",
+        "hex": "#F5DEB3",
+        "rgb": "245, 222, 179",
+        "cmyk": "0, 0.1, 0.27, 0.04"
+    },
+    {
+        "colorName": "White",
+        "hex": "#FFFFFF",
+        "rgb": "255, 255, 255",
+        "cmyk": "0, 0, 0, 0"
+    },
+    {
+        "colorName": "WhiteSmoke",
+        "hex": "#F5F5F5",
+        "rgb": "245, 245, 245",
+        "cmyk": "0, 0, 0, 0.04"
+    },
+    {
+        "colorName": "Yellow",
+        "hex": "#FFFF00",
+        "rgb": "255, 255, 0",
+        "cmyk": "0, 0, 1, 0"
+    },
+    {
+        "colorName": "YellowGreen",
+        "hex": "#9ACD32",
+        "rgb": "154, 205, 50",
+        "cmyk": "0.25, 0, 0.76, 0.2"
+    }
+]
